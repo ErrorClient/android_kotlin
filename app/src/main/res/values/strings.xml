@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Utut App</string>
+    <string name="full_size_picture">Full size picture</string>
+    <string name="small_image_you_can_click_on_it">Small image. You can click on it.</string>
+    <string name="transition_name">transition to full size image</string>
+    <string name="check_internet_connection">Check internet connection</string>
+    <string name="some_kind_of_table">Some kind of table with some data</string>
+</resources>
